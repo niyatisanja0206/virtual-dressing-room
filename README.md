@@ -142,7 +142,7 @@ For complete details, please refer to the attached research paper in the reposit
 - Niyati Raiyani(niyati34)
 - Yukta Mahedu(yukta65)
 - Niyati Sanja(niyatisanja0206)
-- Dhruvi Topiya(tecktrack)
+- Dhruvi Topiya(dtecktrack)
 
 ---
 
